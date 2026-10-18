@@ -7,13 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=retrokiller543" alt="retrokiller543" /></a> </p>
 
-- 🔭 I’m currently working on [Rustic_RTMP](https://github.com/retrokiller543/rustic_rtmp)
-
-- 🌱 I’m currently learning **Rust, Leptos, Network Code**
-
-- 🤝 I’m looking for help with [Rustic_RTMP](https://github.com/retrokiller543/rustic_rtmp)
-
-- 💬 Ask me about **RTMP,**
+- 🔭 I’m currently working on [Upwell](https://github.com/upwell-rs/upwell)
 
 - 📫 How to reach me **emil.schutt@gmail.com**
 
